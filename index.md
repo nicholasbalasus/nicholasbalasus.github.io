@@ -15,6 +15,7 @@ I am a PhD student studying Environmental Science and Engineering at Harvard Uni
 - **Balasus, N.**, M. A. Battaglia Jr., K. Ball, R. Delgado, and C. J. Hennigan (2019). Investigating the Acidity and Liquid Water Content of Atmospheric Particles on the Chesapeake Bay during the OWLETS-2 Campaign ([Poster](https://ams.confex.com/ams/2019Annual/webprogram/Paper355964.html)). 99<sup>th</sup> American Meteorological Society Meeting, Phoenix, AZ.
 
 ## Teaching
+- GENED 1094, Teaching Assistant, Confronting Climate Change, Harvard University, September 2022 - December 2022
 - ENCH 442, Teaching Assistant, Chemical Process Control and Safety, UMBC, January 2021 - May 2021
 - ENCH 300, Teaching Assistant, Chemical Process Thermodynamics, UMBC, September 2020 - December 2020
 - ENCH 225L, Teaching Assistant, Chemical Engineering Problem Solving and Experimental Design Lab, UMBC, January 2020 - May 2020
