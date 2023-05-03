@@ -1,5 +1,5 @@
 ## About
-I am a PhD student studying Environmental Science and Engineering at Harvard University. I am advised by Daniel Jacob in the [Atmospheric Chemistry Modeling Group](https://acmg.seas.harvard.edu/) and I am currently researching atmospheric methane.
+I am a PhD student studying Environmental Science and Engineering at Harvard University. I am advised by Daniel Jacob in the [Atmospheric Chemistry Modeling Group](https://acmg.seas.harvard.edu/) and I am currently researching atmospheric methane. You can view my CV [here](https://nicholasbalasus.github.io/assets/cv.pdf).
 
 ## Current Projects
 ### A blended TROPOMI+GOSAT satellite data product for atmospheric methane using machine learning to correct retrieval biases
