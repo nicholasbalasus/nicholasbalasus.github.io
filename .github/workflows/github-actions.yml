@@ -12,8 +12,8 @@ jobs:
       - run: sudo apt-get install texlive-fonts-recommended
       - run: sudo apt-get install texlive-fonts-extra
       - run: cd assets
-      - run: pdflatex --force cv.tex -o cv.pdf
-      - run: find -maxdepth 1 -type f ! -name '*.tex' ! -name '*.pdf' -delete
+      - run: pdflatex --force assets/cv.tex -o assets/cv.pdf
+      - run: find assets/ -maxdepth 1 -type f ! -name '*.tex' ! -name '*.pdf' -delete
       - uses: peter-evans/create-pull-request@v5
         with:
           commit-message: build new cv.pdf
