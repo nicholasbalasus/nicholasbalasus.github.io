@@ -1,0 +1,20 @@
+name: update-cv
+on:
+  push:
+    paths:
+      - 'assets/cv.tex'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: sudo apt-get install texlive-latex-base
+      - run: sudo apt-get install texlive-fonts-recommended
+      - run: sudo apt-get install texlive-fonts-extra
+      - run: pdflatex --force assets/cv.tex -o assets/cv.pdf
+      - run: find assets/ -maxdepth 1 -type f ! -name '*.tex' ! -name '*.pdf' -delete
+      - uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: build new cv.pdf
+          branch: autogen-cv-pdf
+          title: GitHub Action to update cv.pdf
