@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: sudo apt-get install texlive-latex-base --fix-missing
+      - run: sudo apt-get update
+      - run: sudo apt-get install texlive-latex-base
       - run: sudo apt-get install texlive-fonts-recommended
       - run: sudo apt-get install texlive-fonts-extra
       - run: pdflatex --force assets/cv.tex -o cv.pdf
