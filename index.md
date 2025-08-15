@@ -1,0 +1,20 @@
++++
+title = "Nicholas Balasus"
+hasmath = false
+hascode = false
++++
+
+~~~
+<br>
+<div class="row">
+    <div class="col_center_home">
+        <h1 class="title" style="text-align: center; font-size: 28px;">Nicholas Balasus</h1>
+        <br>
+        <p>
+        I am a doctoral student in the <a href="https://acmg.seas.harvard.edu">atmospheric chemistry modeling group</a>. I am interested in remote sensing and have expertise in inverse modeling and its application to atmospheric methane. My recent publications include the <a href="https://doi.org/10.5194/amt-16-3787-2023">implementation</a> of a machine learning bias correction for methane satellite data and the <a href="https://doi.org/10.1088/1748-9326/ada2b1">application</a> of that data to monitor emissions from landfills.
+        </p>
+
+        <div style="text-align: center;"><a href='https://nicholasbalasus.github.io/assets/cv.pdf'>cv</a>&ensp;//&ensp;<a href="mailto:nicholasbalasus@g.harvard.edu">email</a>&ensp;//&ensp;<a href="https://scholar.google.com/citations?user=_VsfgFYAAAAJ&hl=en">scholar</a>&ensp;//&ensp;<a href='https://github.com/nicholasbalasus'>github</a></div>
+    </div>
+</div>
+~~~
