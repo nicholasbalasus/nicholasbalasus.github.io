@@ -11,7 +11,7 @@ hascode = false
         <h1 class="title" style="text-align: center; font-size: 28px;">Nicholas Balasus</h1>
         <br>
         <p>
-        I am a Postdoctoral Scholar in the <a href="https://carbonmapper.org">Carbon Mapper</a>. I received my PhD from Harvard University in December 2025, advised by Daniel Jacob in the <a href="https://acmg.seas.harvard.edu">Atmospheric Chemistry Modeling Group</a>.
+        I am a Postdoctoral Scholar at <a href="https://carbonmapper.org">Carbon Mapper</a>. I received my PhD from Harvard University in December 2025, advised by Daniel Jacob in the <a href="https://acmg.seas.harvard.edu">Atmospheric Chemistry Modeling Group</a>. My research focuses on remote sensing of methane.
         </p>
 
         <div style="text-align: center;"><a href='https://nicholasbalasus.github.io/assets/cv.pdf'>cv</a>&ensp;//&ensp;<a href="mailto:nicholasbalasus@g.harvard.edu">email</a>&ensp;//&ensp;<a href="https://scholar.google.com/citations?user=_VsfgFYAAAAJ&hl=en">scholar</a>&ensp;//&ensp;<a href='https://github.com/nicholasbalasus'>github</a></div>
